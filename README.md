@@ -19,7 +19,7 @@ The project is inspired by [fastlane/spaceship](https://github.com/fastlane/spac
     $endDate = '2016-01-30';
     $data = $iTC->getCampaignsData($app_id, $startDate, $endDate, $cookies);
 
-#### Result format is:
+#### Result format is
     Array
     (
         [size] => 2
